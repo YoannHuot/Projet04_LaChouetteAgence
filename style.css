@@ -1072,10 +1072,6 @@ h4 {
 
 @media (max-width: 767px) {
     
-    .bg-banniere  { 
-        background: none;
-    }
-    .texture-paper::before {background: none; }        
 
     .page-container {
         overflow-x: hidden;
@@ -1215,7 +1211,7 @@ h4 {
     }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 425px) {
     .bloc {
         padding-left: 0;
         padding-right: 0;
