@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+sitemap : https://yoannhuot.github.io/Projet04_LaChouetteAgence_start/sitemap.xml 
