@@ -1086,7 +1086,7 @@ h4 {
         padding-right: 10px!important;
     }
     .b-parallax {
-        background-attachment: scroll;
+        display: none;
     }
     .navbar .nav {
         padding-top: 0;
